@@ -1,0 +1,15 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.image
+{
+    position: relative;
+    background: url("black_woman.jpg"), url("image3.jpg");
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-blend-mode: screen;
+}
